@@ -3,15 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/dir2/dir2_2/e/</loc>
+    <lastmod>2020-01-21T12:05:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/dir2/dir2_1/d/</loc>
+    <lastmod>2020-01-21T12:05:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/dir2/c/</loc>
+    <lastmod>2020-01-21T12:05:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/dir1/b/</loc>
+    <lastmod>2020-01-21T11:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/a/</loc>
+    <lastmod>2020-01-21T11:57:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/dir2/</loc>
+    <lastmod>2020-01-21T12:05:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-01-21T12:05:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/dir1/</loc>
+    <lastmod>2020-01-21T11:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
     <loc>http://example.org/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
   </url>
   
 </urlset>

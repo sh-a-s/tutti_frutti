@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Tutti Frutti (Hugo Site)"
-theme = "techdoc"
+theme = "ga-hugo-theme"
